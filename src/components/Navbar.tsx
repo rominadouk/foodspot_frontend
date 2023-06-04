@@ -11,10 +11,13 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto ">
                         <li className="nav-item active">
-                            <a className="nav-link" href="#">Home</a>
+                            <a className="nav-link" href="#">HOME</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Find a Food Spot</a>
+                            <a className="nav-link" href="#">FIND A SPOT</a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="#">SAVED SPOTS</a>
                         </li>
                     </ul>
                 </div>
