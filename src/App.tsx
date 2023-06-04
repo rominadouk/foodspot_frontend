@@ -9,7 +9,7 @@ import Recommendation from './components/Recommendations';
 function App() {
   return (
           <>
-          <Navbar />
+          {/* <Navbar /> */}
           <HomeImage />
           <JustVisited />
           <Favorites />

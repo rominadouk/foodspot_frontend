@@ -1,0 +1,17 @@
+/* NAV STYLING FOR HOMEPAGE */
+
+.home-nav-toggler {
+    color:white;
+
+}
+@media (min-width:992px) {
+    .brand-nav-name {
+        margin-left: 50px;
+    
+    }
+    
+    .nav-links {
+        margin-right: 50px;
+    }
+
+}
