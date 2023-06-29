@@ -1,3 +1,8 @@
 .just-visited {
     font-style: italic;
 }
+
+.just-visited-image {
+    height: 300px;
+    border: 2px solid black;
+}

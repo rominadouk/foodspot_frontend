@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Navbar from './components/Navbar';
+import MainNavbar from './components/MainNavbar';
 import HomeImage from './components/HomeImage';
 import JustVisited from './components/JustVisited';
 import Favorites from './components/Favorites';
