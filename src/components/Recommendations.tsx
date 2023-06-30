@@ -1,11 +1,20 @@
 import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
 const Recommendation = () => {
     return ( 
         <>
-            <h3>Know a good Food Spot? Recommend it!</h3>
-            <input type='text' placeholder="City, State" />
-            <input type='text' placeholder="Type of Cuisine" />
-            <input type='tips' placeholder="Any Tips?" />
+        <Container className="mb-5">
+            <Row>
+                <Col className="col-lg-6">
+                    <h3>Know a good Food Spot? Recommend it!</h3>
+                </Col>
+                <Col className="col-lg-2">
+                    <input className='mb-2' type='text' placeholder="City, State" />
+                    <input className='mb-2' type='text' placeholder="Type of Cuisine" />
+                    <input type='tips' placeholder="Any Tips?" />
+                </Col>
+            </Row>
+        </Container>
         </>
      );
 }

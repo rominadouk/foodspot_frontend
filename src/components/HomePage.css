@@ -6,3 +6,17 @@
     height: 300px;
     border: 2px solid black;
 }
+
+.bottom-divider {
+    margin: 60px auto;
+    border: 2px solid black;
+    width: 80vw;
+    height: 2px;
+}
+
+/* FAVORITE SECTION */
+.favorite-spot {
+    border: 1px solid gray;
+    height: 250px;
+
+}
