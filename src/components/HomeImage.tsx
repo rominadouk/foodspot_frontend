@@ -10,7 +10,7 @@ const HomeImage = () => {
     return (
         <>
         <div className='home-image'>
-            <Navbar  expand="lg">
+            <Navbar expand="lg">
                 <Container>
                     <Navbar.Brand className="nav-link" href="#home">FOODSPOT</Navbar.Brand>
                     <Navbar.Toggle className='navbar-toggle' aria-controls="basic-navbar-nav" />
