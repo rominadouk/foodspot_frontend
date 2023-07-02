@@ -9,12 +9,12 @@ const ramenImage = require('../assets/ramen2.jpg')
 const HomeImage = () => {
     return (
         <>
-        <div className='home-image'>
+        <div className='home-image' title="Ramen Bowl Image">
             <Navbar expand="lg">
                 <Container>
-                    <Navbar.Brand className="nav-link" href="#home">FOODSPOT</Navbar.Brand>
+                    <Navbar.Brand className="nav-link" id="foodspot-font" href="#home">FOODSPOT</Navbar.Brand>
                     <Navbar.Toggle className='navbar-toggle' aria-controls="basic-navbar-nav" />
-                    <Navbar.Collapse id="basic-navbar-nav">
+                    <Navbar.Collapse className="justify-content-end custom-navbar-links" id="basic-navbar-nav">
                         <Nav className="ml-auto nav-link">
                             <Nav.Link href="#find">FIND A SPOT</Nav.Link>
                             <Nav.Link href="#saved">SAVED SPOTS</Nav.Link>

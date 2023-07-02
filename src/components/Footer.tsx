@@ -6,10 +6,10 @@ import { Twitter, Facebook, Github, Pinterest } from "react-bootstrap-icons";
 
 const Footer = () => {
     return ( 
-        <div className="icon-div">
-            <Container className="icon-container">
+        <div className="icon-div text-center">
+            <Container className="icon-container pt-3">
                 <Row>
-                    <Col className="col-lg-1">
+                    <Col className="col-lg-1 offset-lg-4">
                         <Facebook className="icon"/>
                     </Col>
                     <Col className="col-lg-1">
@@ -22,6 +22,7 @@ const Footer = () => {
                         <Pinterest className="icon"/>
                     </Col>
                 </Row>
+                <p className="mt-3">This project was built and designed by Romina Douk.</p>
             </Container>
         </div>
      );
