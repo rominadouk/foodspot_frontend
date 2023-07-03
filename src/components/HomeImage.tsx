@@ -7,6 +7,8 @@ import Container from "react-bootstrap/Container";
 const ramenImage = require('../assets/ramen2.jpg')
 
 const HomeImage = () => {
+
+    
     return (
         <>
         <div className='home-image' title="Ramen Bowl Image">

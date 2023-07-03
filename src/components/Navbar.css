@@ -7,6 +7,10 @@
 
 .custom-navbar-links {
     font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+* {
+    font-family: 'Roboto', sans-serif;
 }
 
 .navbar-toggler-icon {

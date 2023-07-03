@@ -10,10 +10,10 @@ const JustVisited = () => {
             <h2 className='text-center mt-5 just-visited'>Just Visited</h2>
             <Container className="mt-4">
                 <Row>
-                    <Col>
-                        <div className='just-visited-image col-lg-7 d-none d-lg-block'></div>
+                    <Col className=" col-lg-4 offset-lg-1">
+                        <div className='just-visited-image d-none d-lg-block'></div>
                     </Col>
-                    <Col className='col-12 col-lg-5'>
+                    <Col className='col-12 col-lg-5 offset-lg-1'>
                         <h3>Food Spot</h3>
                         <p>City, State</p>
                         <div className='just-visited-image col-lg-7 d-block d-lg-none mb-3'></div>

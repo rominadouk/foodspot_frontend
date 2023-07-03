@@ -1,7 +1,7 @@
-
+/* 
 * {
     font-family: 'Oswald', sans-serif;
-}
+} */
 
 .just-visited {
     font-style: italic;
@@ -9,7 +9,9 @@
 
 .just-visited-image {
     height: 300px;
-    border: 2px solid black;
+    border: 6px solid gray;
+    background-image: url('../assets/theDiner.jpg');
+    background-size: cover;
 }
 
 .bottom-divider {
@@ -21,16 +23,35 @@
 
 
 /* FAVORITE SECTION */
+
+#favorite-1 {
+    background-image: url("../assets/favoriteOne.jpg");
+    background-size: cover;
+
+}
+
+#favorite-2 {
+    background-image: url("../assets/favoriteTwo.jpg");
+    background-size: cover;
+
+}
+
+#favorite-3 {
+    background-image: url("../assets/favoriteThree.jpg");
+    background-size: cover;
+
+}
+
 .favorite-spot {
     border: 1px solid gray;
     height: 250px;
 }
 
+
 /* FOOTER */
 .icon {
     font-size: 40px;
 }
-
 
 
 .icon-div {
@@ -46,4 +67,3 @@
 .navbar-toggler {
     background-color: whitesmoke !important;
   }
-  
