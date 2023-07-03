@@ -10,5 +10,5 @@ FoodSpot is a foodie traveler blog.
 ## Tech used
 HTML, CSS, JavaScript, TypeScript, React, React-Bootstrap.
 
-###Future Updates
+## Future Updates
 This project is still in progress and recieving updates. As I develop my skills I will work on implementing new features to enhance User Experience! If you have any recommendations please let me know.
