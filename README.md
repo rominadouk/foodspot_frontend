@@ -1,6 +1,6 @@
 # Project FoodSpot Frontend (In Progress)
 This project was designed and built by Romina Douk. 
-FoodSpot is deployed on Vercel.
+FoodSpot is deployed on Vercel at https://foodspot-frontend.vercel.app/
 This project will be using an Express Backend with a PostgreSQL Database in the near future. 
 
 
