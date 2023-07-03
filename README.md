@@ -4,10 +4,10 @@ FoodSpot is deployed on Vercel.
 This project will be using an Express Backend with a PostgreSQL Database in the near future. 
 
 
-##Purpose
+## Purpose
 FoodSpot is a foodie traveler blog.
 
-##Tech used
+## Tech used
 HTML, CSS, JavaScript, TypeScript, React, React-Bootstrap.
 
 ###Future Updates
